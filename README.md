@@ -2,9 +2,12 @@
 Emarsys email templates are designed to provide flexibility and functionality for CRM gurus and designers.
 The template blocks are responsive and are supported by all email clients.
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/pasujemito)
+[![Release Version](https://img.shields.io/badge/release-v1.0-purple.svg)](https://github.com/pasujemito/emarsys-email-template)
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/pasujemito)
+## Outlook Display Fix
+For image to render correctly on Outlook you must specify a width (set by dummy image) of each image within Content Creation.
+
+`Image Properties => Advanced Settings => Set Container width defined by dummy => Reselect PX => OK`
 
 ## Variables
 To enable the customisation for each block please use the variables below.
